@@ -29,4 +29,3 @@ export default function Footer() {
     </footer>
   );
 }
-//z40a9Tyhx4R9p0neo4n1
